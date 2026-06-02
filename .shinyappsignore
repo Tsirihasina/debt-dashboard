@@ -4,3 +4,6 @@ Analyse.R
 
 .Rhistory
 .Rproj.user/
+
+.git/
+.gitignore
