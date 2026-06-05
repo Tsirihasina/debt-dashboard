@@ -17,8 +17,6 @@ debt <- debt %>%
     Year_input = make_date(year = Year)
   )
 
-debt %>% look_for()
-
 # récrire le dataset sur l'espace de travail
 write_csv2(debt, "data_debt.csv")
 
